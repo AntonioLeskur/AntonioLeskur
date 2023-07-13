@@ -1,4 +1,4 @@
-## 👋 Welcome to my AntonioLeskur GitHub.
+## 👋 Welcome to AntonioLeskur GitHub.
 I am a beginner coder with knowledge in Python and SQL.<br>
 I come from a diverse background, with experiences in various fields ranging from hospitality and tourism industry to business.<br>
 But in the last year and half I found my true passion, programing!<br>
