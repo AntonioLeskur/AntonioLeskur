@@ -2,8 +2,7 @@
 I am a beginner coder with knowledge in Python and SQL.<br>
 I come from a diverse background, with experiences in various fields ranging from hospitality and tourism industry to business.<br>
 But in the last year and half I found my true passion, programing!<br>
-I'm mostly self-taught programer. Few courses, some at universities some online...<br>
-I really enjoy it, seems to get it pretty quickly and always hungry for more!!<br>
+My primary goal is to expand my knowledge and skills in Python programming.<br> I am passionate about honing my problem-solving abilities and developing practical applications using Python.<br> I am also eager to contribute to open-source projects, learn from experienced developers, and engage with the programming community.<br>
 Feel free to check my projects!
   
   Good at:<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
