@@ -1,5 +1,5 @@
 ## 👋 Welcome to AntonioLeskur GitHub.
-I am a beginner coder with knowledge of Python, PostgreSQL, and SQL.<br>
+I'm a newbie programmer with experience in SQL, PostgreSQL, and Python.<br>
 I come from a diverse background, with experiences in various fields ranging from the hospitality and tourism industries to business.<br>
 In the last year and a half, I found my true passion, programming!<br>
 My primary goal is to expand my knowledge and skills in Python programming.<br> I am passionate about sharpening my problem-solving abilities and developing practical applications.<br>
