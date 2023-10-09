@@ -11,6 +11,11 @@ Feel free to check my projects!
             <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
        width="55" 
        height="55" />
+  <img align="center" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"
+    width="55" 
+       height="55"/>
+          
           
  
 
