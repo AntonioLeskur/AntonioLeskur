@@ -1,7 +1,7 @@
 ## 👋 Welcome to AntonioLeskur GitHub.
-I'm a newbie programmer with experience in Python, PostgreSQL, and SQLite .<br>
+I'm a "new" programmer with experience in Python, Git, GitHub, PostgreSQL, and SQLite .<br>
 I come from a diverse background, with experiences in various fields ranging from the hospitality and tourism industries to business.<br>
-In the last year and a half, I found my true passion, programming!<br>
+In the last two years, I found my true passion, programming!<br>
 My primary goal is to expand my knowledge and skills in Python programming.<br> I am passionate about sharpening my problem-solving abilities and developing practical applications.<br>
 I am also eager to contribute to open-source projects, learn from experienced developers, and engage with the programming community.<br>
   
