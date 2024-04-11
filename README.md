@@ -15,8 +15,11 @@ I am also eager to contribute to open-source projects, learn from experienced de
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"
     width="55" 
        height="55"/>
-          
-          
- 
-
-          
+       <img align="center" 
+            src="https://github.com/AntonioLeskur/AntonioLeskur/assets/139459033/bc6790e7-6b6b-4bd7-9e7f-dc05f475d3a7"
+    width="55" 
+       height="55"/>
+       <img align="center" 
+            src="https://github.com/AntonioLeskur/AntonioLeskur/assets/139459033/e030be2f-fbe6-4d01-bc70-f1de00645b27"
+    width="55" 
+       height="55"/>
