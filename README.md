@@ -1,9 +1,17 @@
 ## 👋 Welcome to AntonioLeskur GitHub.
-I'm a "new" programmer with experience in Python, Git, GitHub, HTML, CSS, PostgreSQL, and SQLite .<br>
-I come from a diverse background, with experiences in various fields ranging from the hospitality and tourism industries to business.<br>
-In the last two years, I found my true passion, programming!<br>
-My primary goal is to expand my knowledge and skills in Python programming.<br> I am passionate about sharpening my problem-solving abilities and developing practical applications.<br>
-I am also eager to contribute to open-source projects, learn from experienced developers, and engage with the programming community.<br>
+Aspiring Software Developer with a Strong Foundation in Python, Jinja, Flask, and REST API<br>
+
+I am an aspiring software developer with a background in business, sales, and hospitality, now fully committed to launching my career in IT.<br>
+
+🐍 Passionate Python Programmer:<br> My programming journey began with a deep curiosity about technology. I’ve completed the Education Program for Acquiring Partial Qualification as a Python Developer at Algebra University College, along with The Complete SQL Bootcamp and The Git & GitHub Bootcamp on Udemy.<br>
+
+🌐 Web Development and API Skills:<br> I am proficient in Python and have hands-on experience with HTML, CSS, Jinja, Flask, and developing REST APIs.<br>
+
+💡 Eager to Learn and Grow in IT:<br> Though new to IT, I bring enthusiasm, dedication, and a strong foundation in programming, seeking opportunities to apply and expand my skills.<br>
+
+💼 Transferable Skills from Business and Sales:<br> My previous experience has honed my problem-solving abilities and teamwork skills, which I am eager to apply in the IT field.<br>
+
+I am highly motivated to start my career in software development and contribute to a dynamic team.<br>
   
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
        width="55" 
