@@ -1,5 +1,5 @@
 ## 👋 Welcome to AntonioLeskur GitHub.
-<p>Aspiring Software Developer with a Strong Foundation in Python, Jinja, Flask, and REST API<br></p>
+<p>Aspiring Software Developer with a Strong Foundation in Python, Jinja, Flask, Django and REST API<br></p>
 
 <p>I am an aspiring software developer with a background in business, sales, and hospitality, now fully committed to launching my career in IT.<br></p>
 
@@ -7,7 +7,7 @@
 My journey into programming began with a deep curiosity about technology, which quickly turned into a passion. I have completed the Education Program for Acquiring Partial Qualification as a Python Developer at Algebra University College, where I gained solid experience in Python programming. Additionally, I’ve completed The Complete SQL Bootcamp (PostgreSQL) and The Git & GitHub Bootcamp on Udemy, further strengthening my technical skills.<br></p>
 
 <p>🌐 Web Development and API Skills:<br>
-I am proficient in Python and have hands-on experience with web development using HTML, CSS, and Jinja. My skills extend to building web applications with Flask and developing REST APIs, allowing me to create dynamic, responsive, and data-driven applications.<br></p>
+I am proficient in Python and have hands-on experience with web development using HTML, CSS, and Jinja. My skills extend to building web applications with Flask, Django and developing REST APIs, allowing me to create dynamic, responsive, and data-driven applications.<br></p>
 
 <p>💡 Eager to Learn and Grow in IT:<br>
 Although I am at the beginning of my IT career, I bring a high level of enthusiasm, dedication, and a strong foundation in programming. I am actively seeking opportunities to apply my skills, learn from experienced developers, and contribute to meaningful projects.<br></p>
