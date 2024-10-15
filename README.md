@@ -44,3 +44,7 @@ My previous experience in business and sales has equipped me with strong problem
             src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg"
     width="55" 
        height="55"/>
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" 
+     width="55" 
+     height="55" />
