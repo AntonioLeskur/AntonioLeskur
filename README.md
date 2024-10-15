@@ -45,6 +45,3 @@ My previous experience in business and sales has equipped me with strong problem
     width="55" 
        height="55"/>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" 
-     width="55" 
-     height="55" />
