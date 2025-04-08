@@ -1,5 +1,5 @@
 ## 👋 Welcome to AntonioLeskur GitHub.
-<p>Aspiring Software Developer with a Strong Foundation in Python, Jinja, Flask, Django and REST API<br></p>
+<p>Aspiring Software Developer with a Strong Foundation in Python, SQL, Jinja, Flask, Django and REST API<br></p>
 
 <p>I am an aspiring software developer with a background in business, sales, and hospitality, now fully committed to launching my career in IT.<br></p>
 
